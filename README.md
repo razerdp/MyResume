@@ -15,7 +15,7 @@
 
  - 冯伟超/男/1994-04 
  - 本科/广东工业大学自动化学院物联网工程
- - 工作年限：接近1年
+ - 工作年限：应届生（**实习工作接近1年**）
  - 简书：[@羽翼君](http://www.jianshu.com/users/8ff2bb37d791/latest_articles)
  - 技术博客：http://blog.csdn.net/mkfrank
  - GitHub: http://github.com/razerdp
