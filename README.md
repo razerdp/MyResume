@@ -43,15 +43,6 @@
  - v2.0 支付操作：UI开发，时间轴LinearLayout实现。
 	  
 其余版本都有涉及，以重构为主。
-在项目中遇到的难点：
- 1.  队友圈listview的adapter解耦实现，点赞控件的行数限定以及评论展示控件的事件分发。
- 2.  PopupWindow的封装。
- 3.  viewpager事件拦截。
-
-解决方案：
- 1. adapter重新封装，采取反射方式替换旧有操作（inflate view + viewholder），使不同类型对应到不同的类。点赞行数通过不断的使用staticLayout测量当前文字的行数进而进行对应操作，评论控件事件分发则是取巧，因为ClickableSpan比textview的点击优先，采取设定标志位的方式来使点击span时外部textview的点击无效化。
- 2. 抽象出一个顶级父类，使继承该类可以方便的实现出popupWindow
- 3. 在onInterceptTouchEvent的onclick事件通过线程（post/remove）方式判断一定时间内是否产生了两次的点击事件。
 
 个人觉得在这半年的实习工作里，最自豪的是注重代码质量，注意类之间的耦合。
 
@@ -66,8 +57,8 @@
 
 ### 技术文章
 简书文集：
-- [一起撸个朋友圈吧](http://www.jianshu.com/notebooks/3224048/latest)
-- [Volley的封装](http://www.jianshu.com/p/95f5590b1203) 
+- [一起撸个朋友圈吧](http://www.jianshu.com/notebooks/3224048/latest)（结合自己开发队友圈的经验重新思考结构实现朋友圈）
+- [Volley的封装](http://www.jianshu.com/p/95f5590b1203) （常规请求封装）
 
 CSDN:
 - [打造通用的PopupWindow](http://blog.csdn.net/mkfrank/article/details/50522666)
