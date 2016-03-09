@@ -35,14 +35,11 @@
 
 主要负责UI业务层工作包括：布局和activity层操作，自定义控件的封装。
 具体项目业务：
- - v1.8.1 个人资料页开发
- - v1.8.3 问卷调查：通过flowLayout实现标签选择等。
- - v1.8.5 队友圈开发：队友圈整体开发，下拉刷新控件重新封装，针对开发点赞/评论控件，popupWindow等。
- - v1.8.9 相册重构：采取builder模式和接口进行解耦，相片浏览添加评论和点赞，在事件拦截实现单击/双击判定，ExpandableListView实现多选功能。
- - v1.9.0 界面优化：下拉刷新Header的布局层次优化，相册片浏览viewpager添加切换动画，队友圈下拉刷新控件继承PtrFrameLayout库重构，PopupWindow重新封装，实现动画。
- - v2.0 支付操作：UI开发，时间轴LinearLayout实现。
-	  
-其余版本都有涉及，以重构为主。
+
+  完成大量控件的自定义，如点赞列表，评论展示控件，封装popup利于扩展，flowlayout实现标签tag。参与队友圈的基础开发并实现优化。
+  
+  基于android ultra pull to refresh完成下拉刷新的重构，对旧代码如相册部分进行优化，ExpandableListView多选，LinearLayout实现时间轴效果等。
+以及参与大量的重构。
 
 个人觉得在这半年的实习工作里，最自豪的是注重代码质量，注意类之间的耦合。
 
