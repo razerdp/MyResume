@@ -16,47 +16,52 @@
  - 冯伟超/男/1994-04 
  - 本科/广东工业大学自动化学院物联网工程
  - 工作年限：应届生（**实习工作超过半年**）
- - 简书：[@羽翼君](http://www.jianshu.com/users/8ff2bb37d791/latest_articles)
- - 技术博客：http://blog.csdn.net/mkfrank
+ - 技术博客：[@羽翼君](http://www.jianshu.com/users/8ff2bb37d791/latest_articles)
  - GitHub: http://github.com/razerdp
-
  - 期望职位：Android开发工程师
  - 期望薪资：税前 >6.5K
  - 期望城市：广州
 
 ---
 
-### 工作经历
+### 实习经历
 
 
 #### 广州多聚信息科技有限公司 （ 2015年8月 ~ 2016年3月 ）
 
 ##### 超级俱乐部app (下载地址：[s.iweju.com](http://s.iweju.com))
 
-主要负责UI业务层工作包括：布局和activity层操作，自定义控件的封装。
-具体项目业务：
+职位：Android实习开发工程师
 
-  完成大量控件的自定义，如点赞列表，评论展示控件，封装popup利于扩展，flowlayout实现标签tag。参与队友圈的基础开发并实现优化。
-  
-  基于android ultra pull to refresh完成下拉刷新的重构，对旧代码如相册部分进行优化，ExpandableListView多选，LinearLayout实现时间轴效果等。
-以及参与大量的重构。
+工作：
+	
+ - 负责超级俱乐部App的版本更新迭代和日常维护。
+ - 负责大量的控件的自定义，如：
+ 	+ 队友圈的点赞列表展示控件、评论列表展示控件
+	+ 基于android ultra pull to refresh库重构原本使用的pull to refresh listview，减少measure次数，使滑动更为顺畅
+	+ 支付版本实现LinearLayout时间轴效果
+	+ ExpandableListView实现选择效果（全选）等
+ - 参与队友圈的基础开发
+ -  优化及重构相册部分功能，viewpager通过.PageTransformer实现滑动时的动画效果，popupwindow通过事件绑定取代位置判断来减少代码量。
+ 
 
-个人觉得在这半年的实习工作里，最自豪的是注重代码质量，注意类之间的耦合。
-
+实习的半年里对我影响最大的是在做一个功能前需要构思一下写出来的代码对于下一个维护这个类的人是否友好以及是否利于扩展，写出让人明白同时扩展性良好的代码是我这半年里学到的最重要的东西。
 
 ---
 
 ### 开源项目
 
- - [BasePopupWindow](https://github.com/razerdp/BasePopup) :抽象出一个顶级父类，使继承该类可以方便的实现出popupWindow，start/fork:90/25
- - [UnderLineLinearLayout](https://github.com/razerdp/UnderLineLinearLayout) :实现时间轴的线性布局，start/fork:74/24
- - [FriendCircle](https://github.com/razerdp/FriendCircle):对个人综合实力的一个总结和回顾，意在实现一个微信朋友圈，目前仍然在继续中。start/fork:19/9
+ - [BasePopupWindow](https://github.com/razerdp/BasePopup) :抽象出一个顶级父类，使继承该类可以方便的实现出popupWindow
+ - [UnderLineLinearLayout](https://github.com/razerdp/UnderLineLinearLayout) :实现时间轴的线性布局（即上面的控件，但进行扩展，增加了gravity等）
+ - [FriendCircle](https://github.com/razerdp/FriendCircle):对个人综合实力的一个总结和回顾，意在实现一个微信朋友圈，目前仍然在继续中。（与队友圈实现完全不同的思路，采取MVP架构）
 
+---
 ### 技术文章
 简书文集：
 
-- [一起撸个朋友圈吧](http://www.jianshu.com/notebooks/3224048/latest)（结合自己开发队友圈的经验重新思考结构实现朋友圈）
-- [Volley的封装](http://www.jianshu.com/p/95f5590b1203) （常规请求封装）
+- [一起撸个朋友圈吧](http://www.jianshu.com/notebooks/3224048/latest)（开源项目：FriendCircle的记录）
+- [记一次意外的自定义控件](http://www.jianshu.com/p/909cb4c7a62e) （一个产自于意外发现的自定义控件）
+- [快速简单的定制一个时间轴布局（LinearLayout）](http://www.jianshu.com/p/dee1bfeb6677)（时间轴LinearLayout布局的过程记录）
 
 CSDN:
 
@@ -83,7 +88,7 @@ CSDN:
 ---
 
 ###个人评价、个人爱好
-一个文艺的程序猿，爱好和平，喜欢（纯）音乐，作为一枚码农同时兼职着文艺青年，在撸代码的空闲时间经营着一个[LOFTER](http://razerdp.lofter.com/)博客，经营三年拥有粉丝5000，爱好分享，经常留意开发方面的最新方向，如Rx,java8,AndroidN等，有着一颗封装的心，新建一个类想到的是其他人怎样才能方便使用。能写代码也能写文章，能做出app也下得了厨房，每天最大的希望是能够学到新鲜的东西，最终的愿望是实现世界和平←_←。
+一个文艺的程序猿，爱好和平，喜欢（纯）音乐，作为一枚码农同时兼职着文艺青年，在撸代码的空闲时间经营着一个[LOFTER](http://razerdp.lofter.com/)博客，经营三年拥有粉丝5000，爱好分享，经常留意开发方面的最新方向，如Rx,java8,AndroidN等，有着一颗封装的心，新建一个类想到的是其他人怎样才能方便使用。能写代码也能写文章，能做出app也下得了厨房，每天最大的希望是能够学到新鲜的东西，期望能够成为一枚Android大牛。
 
 ---
 ### 致谢
