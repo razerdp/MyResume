@@ -13,13 +13,13 @@
 
 ###个人信息
 
- - 冯伟超/男/1994-04 
+ - 冯伟超/男/1994
  - 本科/广东工业大学自动化学院物联网工程
- - 工作年限：应届生（**实习工作超过半年**）
+ - 工作年限：1年
  - 技术博客：[@羽翼君](http://www.jianshu.com/users/8ff2bb37d791/latest_articles)
  - GitHub: http://github.com/razerdp
  - 期望职位：Android开发工程师
- - 期望薪资：税前 >6.5K
+ - 期望薪资：税前 >8K
  - 期望城市：广州
 
 ---
@@ -47,14 +47,34 @@
 
 实习的半年里对我影响最大的是在做一个功能前需要构思一下写出来的代码对于下一个维护这个类的人是否友好以及是否利于扩展，写出让人明白同时扩展性良好的代码是我这半年里学到的最重要的东西。
 
+### 工作经历
+
+#### 广州银时信息科技有限公司（16.05至今）
+##### 次元社app (官网：[ciyon](http://www.ciyo.cn/))
+##### 异次元通许/异次元通讯2(官网：[rekall](http://rekallstudio.com/) / [TapTap](https://www.taptap.com/app/34949))
+
+职位：Android开发工程师
+
+工作：
+
+ - 负责次元社App的日常维护与版本迭代
+ 	+ 负责过大量的代码重构
+	+ 首页多Fragment的内存控制与优化处理
+	+ 参与底层架构的优化
+
+ - 异次元通讯系列的开发
+ 	+ 全权负责负责异次元通讯游戏的Android端开发
+	+ 三次重构不断推进和优化游戏架构
+	+ 加密技术写入native，通过jni调用达到保密安全的目的
+	+ 针对res下的图片文件进行加密，使用的时候解密
+	+ 支付SDK的封装等
 ---
 
 ### 开源项目
 
  - [BasePopupWindow](https://github.com/razerdp/BasePopup) :抽象出一个顶级父类，使继承该类可以方便的实现出popupWindow
  - [UnderLineLinearLayout](https://github.com/razerdp/UnderLineLinearLayout) :实现时间轴的线性布局（即上面的控件，但进行扩展，增加了gravity等）
- - [FriendCircle](https://github.com/razerdp/FriendCircle):对个人综合实力的一个总结和回顾，意在实现一个微信朋友圈，目前仍然在继续中。（与队友圈实现完全不同的思路，采取MVP架构）
-
+ - [FriendCircle](https://github.com/razerdp/FriendCircle):重构版的朋友圈，交互完全按照微信iOS版本对齐，大量的自定义控件和底层代码的封装，个人水平的体现。
 ---
 ### 技术文章
 简书文集：
@@ -62,6 +82,9 @@
 - [一起撸个朋友圈吧](http://www.jianshu.com/notebooks/3224048/latest)（开源项目：FriendCircle的记录）
 - [记一次意外的自定义控件](http://www.jianshu.com/p/909cb4c7a62e) （一个产自于意外发现的自定义控件）
 - [快速简单的定制一个时间轴布局（LinearLayout）](http://www.jianshu.com/p/dee1bfeb6677)（时间轴LinearLayout布局的过程记录）
+- [浅谈jni的简单使用和身份验证](http://www.jianshu.com/p/85a1b2738b81)(对native层代码的包验证的一种思路)
+- [不妨再看LinearLayout](http://www.jianshu.com/p/aea27bac7c8e)（LinearLayout的源码解析)
+
 
 CSDN:
 
@@ -74,9 +97,9 @@ CSDN:
 程序方向：
 
 - Android(java)：熟练
-- 后端：spring mvc （初学）
+- ndk：初接触
 - C++：学校基础课程
-- IDEA：AndroidStudio （熟练）
+- 开发工具：AndroidStudio （熟练）
 - 数据库相关：MySQL （初学）
 - 版本管理：Svn/Git
 
