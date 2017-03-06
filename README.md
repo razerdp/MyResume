@@ -77,7 +77,11 @@
  - [BasePopupWindow](https://github.com/razerdp/BasePopup) :抽象出一个顶级父类，使继承该类可以方便的实现出popupWindow
  - [UnderLineLinearLayout](https://github.com/razerdp/UnderLineLinearLayout) :实现时间轴的线性布局（即上面的控件，但进行扩展，增加了gravity等）
  - [FriendCircle](https://github.com/razerdp/FriendCircle):重构版的朋友圈，交互完全按照微信iOS版本对齐，大量的自定义控件和底层代码的封装，个人水平的体现。
+ 
+ 
 ---
+
+
 ### 技术文章
 简书文集：
 
@@ -93,6 +97,8 @@ CSDN:
 - [打造通用的PopupWindow](http://blog.csdn.net/mkfrank/article/details/50522666)
 
 ---
+
+
 ### 技能清单
 以下均为我目前拥有的技能
 
