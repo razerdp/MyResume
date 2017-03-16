@@ -70,7 +70,7 @@
 
 #### 广州银时信息科技有限公司（16.05至今）
 ##### 次元社app (官网：[ciyon](http://www.ciyo.cn/))
-##### 异次元通许/异次元通讯2(官网：[rekall](http://rekallstudio.com/) (t.cn/RihHNsl)/ [TapTap](https://www.taptap.com/app/34949)(t.cn/RMTFzYG)
+##### 异次元通许/异次元通讯2(官网：[rekall](http://rekallstudio.com/) (t.cn/RihHNsl)/ [TapTap](https://www.taptap.com/app/34949)   (t.cn/RMTFzYG))
 
 职位：Android开发工程师
 
@@ -98,11 +98,11 @@
  
 个人热衷于分享我的经历和经验，目前维护着两个star大于400的库，其中一个是完整项目。
 
- - [BasePopupWindow](https://github.com/razerdp/BasePopup)(t.cn/RiDgaVQ) :抽象出一个顶级父类，使继承该类可以方便的实现出popupWindow(star:547 fork:167)
+ - [BasePopupWindow](https://github.com/razerdp/BasePopup) (t.cn/RiDgaVQ) :抽象出一个顶级父类，使继承该类可以方便的实现出popupWindow(star:547 fork:167)
  
- - [UnderLineLinearLayout](https://github.com/razerdp/UnderLineLinearLayout)(t.cn/RiDglFE) :简单实现时间轴的线性布局(start:247 fork: 74)
+ - [UnderLineLinearLayout](https://github.com/razerdp/UnderLineLinearLayout) (t.cn/RiDglFE) :简单实现时间轴的线性布局(start:247 fork: 74)
  
- - [FriendCircle](https://github.com/razerdp/FriendCircle)(t.cn/RqX3437):仿微信朋友圈项目，维护频率高，一般作为我对新技术的试验平台，交互完全按照微信iOS版本对齐，大量的自定义控件和底层代码的封装，个人水平的体现。(start:452 fork:79)
+ - [FriendCircle](https://github.com/razerdp/FriendCircle) (t.cn/RqX3437):仿微信朋友圈项目，维护频率高，一般作为我对新技术的试验平台，交互完全按照微信iOS版本对齐，大量的自定义控件和底层代码的封装，个人水平的体现。(start:452 fork:79)
  
  
 ---
@@ -111,15 +111,15 @@
 ### 技术文章
 简书文集：
 
-- [一起撸个朋友圈吧](http://www.jianshu.com/notebooks/3224048/latest)(t.cn/RiDgsDV)【开源项目：FriendCircle的思路文章记录】
+- [一起撸个朋友圈吧](http://www.jianshu.com/notebooks/3224048/latest) (t.cn/RiDgsDV)【开源项目：FriendCircle的思路文章记录】
 
 - [记一次意外的自定义控件](http://www.jianshu.com/p/909cb4c7a62e) (t.cn/RGTGUc4)【通过AE的不经意发现解决了一个贝塞尔曲线的问题）】
 
-- [快速简单的定制一个时间轴布局（LinearLayout）](http://www.jianshu.com/p/dee1bfeb6677)(t.cn/Rb1Gq67)【（时间轴LinearLayout布局的过程记录）】
+- [快速简单的定制一个时间轴布局（LinearLayout）](http://www.jianshu.com/p/dee1bfeb6677) (t.cn/Rb1Gq67)【（时间轴LinearLayout布局的过程记录）】
 
-- [浅谈jni的简单使用和身份验证](http://www.jianshu.com/p/85a1b2738b81)(t.cn/RMmaJ0y)【(对native层代码的包验证的一种思路)】
+- [浅谈jni的简单使用和身份验证](http://www.jianshu.com/p/85a1b2738b81) (t.cn/RMmaJ0y)【(对native层代码的包验证的一种思路)】
 
-- [不妨再看LinearLayout](http://www.jianshu.com/p/aea27bac7c8e)(t.cn/RiDetIE)【（LinearLayout的源码解析)】
+- [不妨再看LinearLayout](http://www.jianshu.com/p/aea27bac7c8e) (t.cn/RiDetIE)【（LinearLayout的源码解析)】
 
 CSDN:
 
@@ -131,7 +131,7 @@ CSDN:
 
 1年半工作经验，全权负责开发了《异次元通讯2》，超过百万用户下载，并进行过多语言适配，关注Android新的技术动向，有着良好的编码风格与封装思想，喜欢封装代码和写出维护性，扩展性高的代码完成工作并为之努力，Android上主要向View和交互开发上发力，同时也会涉猎Native层的开发。产品上比较注重用户体验，编写的过程中遇到可能可以优化的体验会适当分享idea.
 
-一个文艺的程序猿，爱好和平，喜欢（纯）音乐，作为一枚码农同时兼职着文艺青年，在撸代码的空闲时间经营着一个[LOFTER](http://razerdp.lofter.com/)(t.cn/RiDe1cV)博客(于17年放弃维护)，经营三年拥有粉丝5000，爱好分享。代码上更趋于如何写一个健壮的和可扩展性高的，不喜欢脏代码。能写代码也能写文章，能做出app也下得了厨房，每天最大的希望是能够学到新鲜的东西，期望每天进步一点，最终目标成为一枚Android大牛。
+一个文艺的程序猿，爱好和平，喜欢（纯）音乐，作为一枚码农同时兼职着文艺青年，在撸代码的空闲时间经营着一个[LOFTER](http://razerdp.lofter.com/) (t.cn/RiDe1cV)博客(于17年放弃维护)，经营三年拥有粉丝5000，爱好分享。代码上更趋于如何写一个健壮的和可扩展性高的，不喜欢脏代码。能写代码也能写文章，能做出app也下得了厨房，每天最大的希望是能够学到新鲜的东西，期望每天进步一点，最终目标成为一枚Android大牛。
 
 ---
 ### 致谢
