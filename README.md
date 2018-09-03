@@ -5,8 +5,8 @@
 ### 联系方式
 
 - 手机：13570489517
-- Email：razerdp123@gmail.com或164701463@qq.com
-- QQ/微信号：164701463(QQ)/razerdp(WeChat)
+- Email：razerdp123@gmail.com || 164701463@qq.com
+- QQ/微信号：164701463(QQ) || razerdp(WeChat)
 
 ---
 
@@ -14,11 +14,11 @@
 
  - 冯伟超/男/1994
  - 本科/广东工业大学自动化学院物联网工程
- - 工作年限：1年
+ - 工作年限：3年
  - 技术博客：[@羽翼君](http://www.jianshu.com/users/8ff2bb37d791/latest_articles)（t.cn/RiDrkCB）
  - GitHub: http://github.com/razerdp
  - 期望职位：Android中级开发工程师
- - 期望薪资：税前 >8.5K
+ - 期望薪资：税前 >=16K
  - 期望城市：广州
 
 ---
