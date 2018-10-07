@@ -115,7 +115,7 @@
 	
 - 全异次元通讯2的Android端开发
 
-	+ 负责Excel剧本翻转程序数据结构的设计。
+	+ 负责Excel剧本翻译程序数据结构的设计。
 	+ 负责异次元通讯的数据结构设计和代码架构的设计。	
 	+ 负责多语言的适配，分享和支付的设计开发。	
 	+ 为了安全性，将剧本加密和解密方法写入so库，并且对调用so库的使用者进行身份验，实现防止客户端代码被反编译和二次打包的风险。
@@ -141,17 +141,27 @@
   - 普益投：
   
   	+ 负责日常维护及需求开发
-	+ 重构项目，替换底层请求为RetroFit
+	+ 重构项目，替换底层请求为RetroFit2
+	+ 负责多数自定义控件的开发，包含但不限于折线图、下拉刷新库、饼图等
+	+ 多条件关联弹窗优化
+  - 普益基金：
+  	+ 全权负责普益基金Android开发
+	+ 优化PopupWindow（使用自己的库）
+	+ 折线图扩展，优化系统性能
+	+ 引入RxJava2代替旧有线程池和Handler的回调使用
 	
 ### 开源项目
  
-个人热衷于分享我的经历和经验，目前维护着两个star大于400的库，其中一个是完整项目。
+个人热衷于分享我的经历和经验，目前维护着几个star较大的库，其中一个是完整项目。
 
- - [BasePopupWindow](https://github.com/razerdp/BasePopup) (t.cn/RiDgaVQ) :抽象出一个顶级父类，使继承该类可以方便的实现出popupWindow(star:547 fork:167)
+ - [BasePopupWindow](https://github.com/razerdp/BasePopup) (t.cn/RiDgaVQ) :抽象出一个顶级父类，使继承该类可以方便的实现出各种PopupWindow，在2.0版本开始支持链式调用(star:1624)
  
- - [UnderLineLinearLayout](https://github.com/razerdp/UnderLineLinearLayout) (t.cn/RiDglFE) :简单实现时间轴的线性布局(start:247 fork: 74)
+ - [AnimatedPieView](https://github.com/razerdp/AnimatedPieView)(t.cn/EhugPE5)：一个轻量级的饼图，被评为18年年初值得关注的25个库之一，得到国外的认可(star:987)
  
- - [FriendCircle](https://github.com/razerdp/FriendCircle) (t.cn/RqX3437):仿微信朋友圈项目，组件化开发，一般作为我对新技术的试验平台，交互完全按照微信iOS版本对齐，大量的自定义控件和底层代码的封装，个人水平的体现。(start:452 fork:79)
+ - [UnderLineLinearLayout](https://github.com/razerdp/UnderLineLinearLayout) (t.cn/RiDglFE) :简单实现时间轴的线性布局(start:364)
+ 
+ - [FriendCircle](https://github.com/razerdp/FriendCircle) (t.cn/RqX3437):仿微信朋友圈项目，组件化开发，一般作为我对新技术的试验平台，交互完全按照微信iOS版本对齐，大量的自定义控件和底层代码的封装，个人水平的体现。(start:902)
+ 
  
  
 ---
@@ -174,11 +184,14 @@ CSDN:
 
 - [打造通用的PopupWindow](http://blog.csdn.net/mkfrank/article/details/50522666)(t.cn/RiDelSm)【BasePopup库的实现思路】
 
+掘金：
+
+- [一起撸个环形 Android 图表](https://juejin.im/post/5ba7a6b36fb9a05d30175594)(t.cn/EhuFP72)【AnimatedPieView的实现思路】
 ---
 
 ### 个人评价、个人爱好
 
-1年半工作经验，全权负责开发了《异次元通讯2》，超过百万用户下载，并进行过多语言适配，关注Android新的技术动向，有着良好的编码风格与封装思想，喜欢封装代码和写出维护性，扩展性高的代码完成工作并为之努力，Android上主要向View和交互开发上发力，同时也会涉猎Native层的开发。产品上比较注重用户体验，编写的过程中遇到可能可以优化的体验会适当分享idea.
+近3年工作经验，全权负责开发了《异次元通讯2》，超过百万用户下载，并进行过多语言适配，关注Android新的技术动向，有着良好的编码风格与封装思想，喜欢封装代码和写出维护性，扩展性高的代码完成工作并为之努力，Android上主要向View和交互开发上发力，同时也会涉猎Native层的开发。产品上比较注重用户体验，编写的过程中遇到可能可以优化的体验会适当分享idea.
 
 一个文艺的程序猿，爱好和平，喜欢（纯）音乐，作为一枚码农同时兼职着文艺青年，在撸代码的空闲时间经营着一个[LOFTER](http://razerdp.lofter.com/) (t.cn/RiDe1cV)博客(于17年放弃维护)，经营三年拥有粉丝5000，爱好分享。代码上更趋于如何写一个健壮的和可扩展性高的，不喜欢脏代码。能写代码也能写文章，能做出app也下得了厨房，每天最大的希望是能够学到新鲜的东西，期望每天进步一点，最终目标成为一枚Android大牛。
 
