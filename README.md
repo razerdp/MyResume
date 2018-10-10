@@ -145,7 +145,8 @@
 	+ 负责多数自定义控件的开发，包含但不限于折线图、下拉刷新库、饼图等
 	+ 多条件关联弹窗优化
   - 普益基金：
-  	+ 全权负责普益基金Android开发
+  	+ 全权负责普益基金Android开发及维护
+	+ 自定义TextView和Button，减少编写圆角shap等background时需要建立大量xml文件的问题
 	+ 优化PopupWindow（使用自己的库）
 	+ 折线图扩展，优化系统性能
 	+ 引入RxJava2代替旧有线程池和Handler的回调使用
@@ -156,7 +157,7 @@
 
  - [BasePopupWindow](https://github.com/razerdp/BasePopup) (t.cn/RiDgaVQ) :抽象出一个顶级父类，使继承该类可以方便的实现出各种PopupWindow，在2.0版本开始支持链式调用(star:1624)
  
- - [AnimatedPieView](https://github.com/razerdp/AnimatedPieView)(t.cn/EhugPE5)：一个轻量级的饼图，被评为18年年初值得关注的25个库之一，得到国外的认可(star:987)
+ - [AnimatedPieView](https://github.com/razerdp/AnimatedPieView)(t.cn/EhugPE5)：一个轻量级的饼图，被评为18年年初值得关注的25个库之一，得到国外的认可(star:993)
  
  - [UnderLineLinearLayout](https://github.com/razerdp/UnderLineLinearLayout) (t.cn/RiDglFE) :简单实现时间轴的线性布局(start:364)
  
@@ -187,6 +188,8 @@ CSDN:
 掘金：
 
 - [一起撸个环形 Android 图表](https://juejin.im/post/5ba7a6b36fb9a05d30175594)(t.cn/EhuFP72)【AnimatedPieView的实现思路】
+
+
 ---
 
 ### 个人评价、个人爱好
