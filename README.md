@@ -31,9 +31,7 @@
 - Android(java)：熟练
 - Unreal Script:入门（跟朋友合作写了KF2的mod）
 - ndk：了解（下面有相关博客文章记载）
-- C++：了解
 - 开发工具：AndroidStudio （熟练）
-- 数据库相关：MySQL （了解）
 - 版本管理：Svn/Git
 
 视觉方向：
@@ -96,7 +94,7 @@
 ##### 次元社app (官网：[ciyon](http://www.ciyo.cn/))
 ##### 异次元通许/异次元通讯2(官网：[rekall](http://rekallstudio.com/) (t.cn/RihHNsl)/ [TapTap](https://www.taptap.com/app/34949)   (t.cn/RMTFzYG))
 
-时间：2016年5月至今
+时间：2016年5月至2017年4月
 项目职务：Android开发工程师
 所在公司：广州银时信息科技有限公司
 项目简介：
@@ -145,7 +143,7 @@
 	+ 负责多数自定义控件的开发，包含但不限于折线图、下拉刷新库、饼图等
 	+ 多条件关联弹窗优化
   - 普益基金：
-  	+ 全权负责普益基金Android开发及维护
+  	+ 全权负责普益基金Android开发、优化及维护
 	+ 自定义TextView和Button，减少编写圆角shap等background时需要建立大量xml文件的问题
 	+ 优化PopupWindow（使用自己的库）
 	+ 折线图扩展，优化系统性能
@@ -155,13 +153,14 @@
  
 个人热衷于分享我的经历和经验，目前维护着几个star较大的库，其中一个是完整项目。
 
- - [BasePopupWindow](https://github.com/razerdp/BasePopup) (t.cn/RiDgaVQ) :抽象出一个顶级父类，使继承该类可以方便的实现出各种PopupWindow，在2.0版本开始支持链式调用(star:1624)
+ - [BasePopupWindow](https://github.com/razerdp/BasePopup) (t.cn/RiDgaVQ) :抽象出一个顶级父类，使继承该类可以方便的实现出各种PopupWindow，在2.0版本开始支持链式调用(star:1724)
  
- - [AnimatedPieView](https://github.com/razerdp/AnimatedPieView)(t.cn/EhugPE5)：一个轻量级的饼图，被评为18年年初值得关注的25个库之一，得到国外的认可(star:993)
+ - [AnimatedPieView](https://github.com/razerdp/AnimatedPieView)(t.cn/EhugPE5)：一个轻量级的饼图，被评为18年年初值得关注的25个库之一，得到国外的认可(star:1093)
  
- - [UnderLineLinearLayout](https://github.com/razerdp/UnderLineLinearLayout) (t.cn/RiDglFE) :简单实现时间轴的线性布局(start:364)
+ - [FriendCircle](https://github.com/razerdp/FriendCircle) (t.cn/RqX3437):仿微信朋友圈项目，组件化开发，一般作为我对新技术的试验平台，交互完全按照微信iOS版本对齐，大量的自定义控件和底层代码的封装，个人水平的体现。(start:919)
  
- - [FriendCircle](https://github.com/razerdp/FriendCircle) (t.cn/RqX3437):仿微信朋友圈项目，组件化开发，一般作为我对新技术的试验平台，交互完全按照微信iOS版本对齐，大量的自定义控件和底层代码的封装，个人水平的体现。(start:902)
+ - [UnderLineLinearLayout](https://github.com/razerdp/UnderLineLinearLayout) (t.cn/RiDglFE) :简单实现时间轴的线性布局(start:371)
+
  
  
  
