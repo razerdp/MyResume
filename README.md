@@ -16,7 +16,7 @@
  - 工作年限：3年
  - 技术博客：[@羽翼君](http://www.jianshu.com/users/8ff2bb37d791/latest_articles)（t.cn/RiDrkCB）
  - GitHub: http://github.com/razerdp
- - 期望职位：Android中级开发工程师
+ - 期望职位：Android开发工程师
  - 期望城市：广州
 
 
